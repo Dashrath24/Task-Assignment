@@ -22,10 +22,3 @@ project-folder/
 
 │   ├── css/
 │   │   └── style.css
-
-│   ├── js/(if needed)
-│   │   └── script.js
-
-│   └── images/
-│       └── (all exported PSD images)
-
