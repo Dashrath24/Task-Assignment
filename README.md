@@ -25,6 +25,7 @@ Example structure:
 ## 📂 Folder Structure
 
 task-assignment/
+
     ├── task-01/
     
     ├── task-02/
