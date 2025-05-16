@@ -1,0 +1,19 @@
+1. What is HTML and why is it used?
+
+2. What is the basic structure of an HTML document?
+
+3. What is <!DOCTYPE html> and why is it important?
+
+4. What is the <html> tag used for?
+
+5. What is the purpose of the <head> tag in HTML?
+
+6. What does the <title> tag do in an HTML document?
+
+7. What is the <body> tag and why is it important?
+
+8. What are heading tags in HTML?
+
+9. What is a paragraph tag? How do we use it?
+
+10. What are self-closing tags? Give examples.
