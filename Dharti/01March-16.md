@@ -27,9 +27,3 @@ project-folder/
 
 │ └── images/ │ └── (all exported PSD images)
 
-├── index.html
-
-├── assets/
-
-│   ├── css/
-│   │   └── style.css
