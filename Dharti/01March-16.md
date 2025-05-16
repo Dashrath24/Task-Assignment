@@ -18,6 +18,7 @@ project-folder/
 │
 ├── index.html
 ├── assets/
+
 │   ├── css/
 │   │   └── style.css
 │   ├── js/(if needed)
