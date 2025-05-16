@@ -15,8 +15,9 @@ You will be working with the following PSD design:
 4. **Create a project folder structure** like below:
 
 project-folder/
-│
+
 ├── index.html
+
 ├── assets/
 
 │   ├── css/
