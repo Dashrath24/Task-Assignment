@@ -17,10 +17,15 @@ You will be working with the following PSD design:
 project-folder/
 │
 ├── index.html
+
 ├── assets/
+
 │   ├── css/
+
 │   │   └── style.css
+
 │   ├── js/(if needed)
 │   │   └── script.js
+
 │   └── images/
 │       └── (all exported PSD images)
