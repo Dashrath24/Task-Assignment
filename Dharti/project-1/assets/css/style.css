@@ -1,0 +1,110 @@
+/* ====== GLOBAL STYLES ====== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 0.1px solid black; */
+}
+
+/*root */
+:root {
+    /* colors */
+    --primary-color: black;
+    /* fonts */
+}
+
+/* comman css */
+.container {
+    width: 100%;
+}
+
+.row {
+    display: flex;
+}
+
+.col {}
+
+.px-50 {
+    padding-inline: 50px;
+}
+
+body ul {
+    list-style: none;
+    text-decoration: none;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.align-item-centre {
+
+    align-items: center
+}
+
+.justify-content-center {
+
+    justify-content: space-between
+}
+
+.justify-content-end {
+
+    justify-content: flex-end
+}
+
+.position-relative {
+    position: relative;
+}
+
+.position-absolute {
+    position: absolute;
+}
+
+/* hero section */
+.hero-section {
+    background: black;
+    /* height: 990px; */
+    background-repeat: no-repeat;
+    height: 100vh;
+    padding: 20px;
+}
+
+.logo {
+    font-size: 20px;
+}
+
+.hero-text {
+    margin-top: 200px;
+}
+
+.hero-section h1 {
+    font-size: 2.75rem;
+    letter-spacing: -1px;
+    line-height: 60px;
+    /* color: var(--primary-color); */
+    font-weight: 700;
+    /* font-family: "Nunito Sans"; */
+    max-width: 400px;
+    background: url(../images/hero-bg-img.png);
+    /* background-size: cover; */
+    background-clip: text;
+    /* background-origin: content-box; */
+    box-sizing: text;
+    border: 4px solid black;
+    padding: 30px;
+    color: transparent;
+    animation: animate 10s linear infinite;
+
+}
+
+@keyframes animate {
+    to {
+        background-position-x: -200px;
+    }
+
+
+}
+
+.adress {
+    margin-top: 100px;
+}
