@@ -15,12 +15,17 @@ You will be working with the following PSD design:
 4. **Create a project folder structure** like below:
 
 project-folder/
-│
+
 ├── index.html
+
 ├── assets/
+
 │   ├── css/
+
 │   │   └── style.css
+
 │   ├── js/(if needed)
 │   │   └── script.js
+
 │   └── images/
 │       └── (all exported PSD images)
